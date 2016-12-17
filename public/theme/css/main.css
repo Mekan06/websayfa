@@ -168,7 +168,7 @@ a#scrollUp i{
 }
 
 .usa:active, .usa.active {
-  background: none repeat scroll 0 0 #00fe45;
+  background: none repeat scroll 0 0 #1317FE;
   box-shadow: inherit;
   outline: 0 none;
 }
@@ -179,7 +179,7 @@ a#scrollUp i{
 }
 
 .dropdown-menu  li  a:hover, .dropdown-menu  li  a:focus {
-  background-color: #00fe45;
+  background-color: #1317FE;
   color: #FFFFFF;
   font-family: 'Roboto', sans-serif;
   text-decoration: none;
@@ -215,7 +215,7 @@ a#scrollUp i{
 
 
 .shop-menu ul li a:hover {
-	color: #00fe45;
+	color: #1317FE;
 	background:#fff;
 }
 
@@ -249,11 +249,11 @@ a#scrollUp i{
 
 .mainmenu ul li a:hover, .mainmenu ul li a.active,  .shop-menu ul li a.active{
 	background:none;
-	color: #00fe45;
+	color: #1317fe;
 }
 
 .search_box input {
-  background: #F0F0E9;
+  background: #1837f0;
   border: medium none;
   color: #B2B2B2;
   font-family: 'roboto';
@@ -302,7 +302,7 @@ ul.sub-menu {
 }
 
 .dropdown ul.sub-menu li .active{
-  color: #00fe45;
+  color: #1317FE;
   padding-left: 0;
 }
 
@@ -320,7 +320,7 @@ ul.sub-menu {
 }
 
 .navbar-nav li ul.sub-menu li a:hover{
-    color: #00fe45;
+    color: #1317FE;
 }
 
 .fa-angle-down{
@@ -367,7 +367,7 @@ ul.sub-menu {
 }
 
 .companyinfo h2  span{
-  color: #00fe45;
+  color: #1317FE;
 }
 
 .companyinfo p {
@@ -405,7 +405,7 @@ ul.sub-menu {
   top: 0;
   width: 100%;
   height: 61px;
-  background: #00fe45;
+  background: #1317FE;
   border-radius: 3px;
   color: #FFF;
   font-size: 20px;
@@ -501,7 +501,7 @@ ul.sub-menu {
 
 .single-widget ul li a:hover{
 	background:none;
-	color: #00fe45;
+	color: #1317FE;
 }
 
 
@@ -518,7 +518,7 @@ ul.sub-menu {
 
 
 .searchform button {
-  background: #00fe45;
+  background: #1317FE;
   border: medium none;
   border-radius: 0;
   margin-left: -5px;
@@ -533,7 +533,7 @@ ul.sub-menu {
 
 .searchform  button:hover, 
 .searchform  button:focus{
-	background-color: #00fe45;
+	background-color: #1317FE;
 }
 
 .searchform p {
@@ -557,7 +557,7 @@ ul.sub-menu {
 }
 
 .footer-bottom p span a {
-  color: #00fe45;
+  color: #1317FE;
   font-style: italic;
   text-decoration: underline;
 }
@@ -577,7 +577,7 @@ ul.sub-menu {
 }
 
 .carousel-indicators li.active {
-	  background: #00fe45;
+	  background: #1317FE;
 }
 
 .item {
@@ -603,7 +603,7 @@ ul.sub-menu {
 }
 
 .item h1 span {
-	color: #00fe45;
+	color: #1317FE;
 }
 
 .item h2 {
@@ -623,7 +623,7 @@ ul.sub-menu {
 }
 
 .get {
-  background: #20fe78;
+  background: #1317FE;
   border: 0 none;
   border-radius: 0;
   color: #FFFFFF;
@@ -635,7 +635,7 @@ ul.sub-menu {
 
 
 .item button:hover {
-  background: #20fe78;
+  background: #1317FE;
 }
 
 .control-carousel {
@@ -646,7 +646,7 @@ ul.sub-menu {
 }
 
 .control-carousel:hover{
-  color: #00fe45;
+  color: #1317FE;
 }
 
 .right {
@@ -807,7 +807,7 @@ h2.title:before{
 
 
 .tooltip-inner {
-  background-color: #00fe45;
+  background-color: #1317FE;
   border-radius: 4px;
   color: #FFFFFF;
   max-width: 200px;
@@ -817,7 +817,7 @@ h2.title:before{
 }
 
 .tooltip.top .tooltip-arrow {
-  border-top-color: #00fe45;
+  border-top-color: #1317FE;
   border-width: 5px 5px 0;
   bottom: 0;
   left: 50%;
@@ -835,7 +835,7 @@ h2.title:before{
 
 
 h2.title {
-  color: #00fe45;
+  color: #1317FE;
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -862,7 +862,7 @@ h2.title {
 }
 
 .productinfo h2{
-	color: #00fe45;
+	color: #1317FE;
 	font-family: 'Roboto', sans-serif;
 	font-size: 24px;
 	font-weight: 700;
@@ -891,7 +891,7 @@ h2.title {
 }
 
 .product-overlay {
-  background: #00fe45;
+  background: #1317FE;
   top: 0;
   display: none;
   height: 0;
@@ -920,7 +920,7 @@ h2.title {
   background:#fff;
   border: 0 none;
   border-radius: 0;
-  color: #00fe45;
+  color: #1317FE;
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
   margin-bottom: 25px;
@@ -928,7 +928,7 @@ h2.title {
 
 .product-overlay .add-to-cart:hover {
   background:#fff;
-  color: #00fe45;
+  color: #1317FE;
 }
 
 
@@ -952,7 +952,7 @@ h2.title {
 }
 
 .add-to-cart:hover {
-  background: #00fe45;
+  background: #1317FE;
   border: 0 none;
   border-radius: 0;
   color: #FFFFFF;
@@ -967,7 +967,7 @@ h2.title {
 }
 
 .add-to-cart:hover {
-  background: #00fe45;
+  background: #1317FE;
   color: #FFFFFF;
 }
 
@@ -989,7 +989,7 @@ h2.title {
 
 .choose ul li a:hover{
 	background:none;
-	color: #00fe45;
+	color: #1317FE;
 }
 
 .category-tab {
@@ -998,7 +998,7 @@ h2.title {
 
 .category-tab ul {
   background: #40403E;
-  border-bottom: 1px solid #00fe45;
+  border-bottom: 1px solid #1317FE;
   list-style: none outside none;
   margin: 0 0 30px;
   padding: 0;
@@ -1016,7 +1016,7 @@ h2.title {
 }
 
 .category-tab ul  li  a:hover{
-	background: #00fe45;
+	background: #1317FE;
 	color:#fff;
 }
 
@@ -1025,7 +1025,7 @@ h2.title {
   -moz-border-left-colors: none;
   -moz-border-right-colors: none;
   -moz-border-top-colors: none;
-  background-color: #00fe45;
+  background-color: #1317FE;
   border:0px;
   color: #FFFFFF;
   cursor: default;
@@ -1054,7 +1054,7 @@ h2.title {
 }
 
 .recommended-item-control i {
-  background: none repeat scroll 0 0 #00fe45;
+  background: none repeat scroll 0 0 #1317FE;
   color: #FFFFFF;
   font-size: 20px;
   padding: 4px 10px;
@@ -1134,7 +1134,7 @@ h2.title {
 }
 
 .pagination  li  a:hover{
-	background: #00fe45;
+	background: #1317FE;
 	color:#fff;
 }
 

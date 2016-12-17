@@ -43,4 +43,5 @@ class IletisimController extends Controller
         }
 
     }
+
 }

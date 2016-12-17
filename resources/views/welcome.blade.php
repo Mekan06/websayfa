@@ -14,7 +14,7 @@
 						<div class="carousel-inner">
 							<div class="item active">
 								<div class="col-sm-6">
-									<h1><span>E</span>-CİFTCİ</h1>
+									<h1><span></span>E-CİFTCİ</h1>
 									<h2>Tarım Mahsülleri Satış Platformu</h2>
 									<p> </p>
 									<button type="button" class="btn btn-default get">Get it now</button>
@@ -64,7 +64,7 @@
 			</div>
 		</div>
 	</section><!--/slider-->
-	
+
 	<section>
 		<div class="container">
 			<div class="row">

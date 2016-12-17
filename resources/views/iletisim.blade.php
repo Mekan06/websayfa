@@ -1,6 +1,7 @@
 @extends('layouts.ciftci')
 @section('icerik')
-    <div class="container">
+
+        <div class="container">
         <div class="row">
         <div class="col-md-12 alert alert-info">
         @if (count($errors) > 0)
@@ -22,6 +23,8 @@
             <input  class="btn btn-success" type="submit" value="Gönder" />
 
             </form>
+
+
         </div>
         </div>
     </div>

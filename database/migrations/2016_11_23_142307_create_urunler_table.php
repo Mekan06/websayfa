@@ -13,7 +13,20 @@ class CreateUrunlerTable extends Migration
      */
     public function up()
     {
-        //
+        Schema::create('urunler', function (Blueprint $table) {
+            $table->increments('id');
+            $table->string('users_id');
+            $table->string('urun_id');
+            $table->date_time_set('tarih');
+            $table->string('mesaj');
+            $table->string('sehir');
+            $table->money_format('fiyat');
+            $table->int('stok');
+            $table->int('taban_stok');
+
+        });
+
+    }
     }
 
     /**

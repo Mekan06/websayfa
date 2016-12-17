@@ -20,3 +20,10 @@ Auth::routes();
 Route::get('/home', 'HomeController@index');
 Route::get('/iletisim', 'IletisimController@ekle');
 Route::post('/iletisim', 'IletisimController@yeniDeger');
+Route::get('/urunler', function (){
+    return view('urunler');
+});
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index');
